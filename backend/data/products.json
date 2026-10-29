@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "name": "t-shirt",
+        "price": "9",
+        "size": "L"
+    },
+    {
+        "id": 2,
+        "name": "shorts",
+        "price": "20",
+        "size": "L"
+    },
+    {
+        "id": 3,
+        "name": "black suit",
+        "price": "129",
+        "size": "L"
+    },
+    {
+        "id": 4,
+        "name": "gray cotton coat",
+        "price": "354",
+        "size": "L"
+    },
+    {
+        "id": 5,
+        "name": "ksdfj",
+        "price": "8765",
+        "size": "XS"
+    },
+    {
+        "id": 6,
+        "name": "sdk",
+        "price": "78",
+        "size": "XS"
+    }
+]
